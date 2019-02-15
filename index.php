@@ -7,6 +7,8 @@
 <nav>
 <ul>
 <li>Home</li>
+<li>Blog</li>
+<li>Contact</li>
 </ul>
 </nav>
 </body>
